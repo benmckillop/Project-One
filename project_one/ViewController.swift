@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var litersFilledUpField: UITextField!
     @IBOutlet weak var costPerLiterField: UITextField!
     @IBOutlet weak var mpgText: UILabel!
+    @IBOutlet weak var costPerMileText: UILabel!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -29,17 +30,23 @@ class ViewController: UIViewController {
         var cost = costPerLiterField.text
         
         let litersDbl = (litersFilledUpField.text! as NSString).doubleValue
-        
         let milesDbl = (milesSinceLastFillField.text! as NSString).doubleValue
+        let costDbl = (costPerLiterField.text! as NSString).doubleValue
+
 
         
         let gallons = (litersDbl / 4.546)
         let mpg = milesDbl / gallons
-        
         let finalmpg = String(mpg)
-
         
+        let costOfFill = ((costDbl * litersDbl) / milesDbl)
+        let finalCostOfFill = String(costOfFill)
+
+   
+
+        costPerMileText.text = finalCostOfFill
         mpgText.text = finalmpg
+        
         
     }
 }
