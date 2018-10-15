@@ -12,6 +12,26 @@
 		2B491ED4216FED3A00FE7E61 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B491ED2216FED3A00FE7E61 /* Main.storyboard */; };
 		2B491ED6216FED4100FE7E61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B491ED5216FED4100FE7E61 /* Assets.xcassets */; };
 		2B491ED9216FED4100FE7E61 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B491ED7216FED4100FE7E61 /* LaunchScreen.storyboard */; };
+		2B491F0F2174E60300FE7E61 /* Rectangle 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B491EEB2174E60100FE7E61 /* Rectangle 1.png */; };
+		2B491F112174E60300FE7E61 /* icons8-gas-pump-100.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B491EED2174E60100FE7E61 /* icons8-gas-pump-100.png */; };
+		2B491F122174E60300FE7E61 /* icons8-gas-pump-100@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B491EEE2174E60100FE7E61 /* icons8-gas-pump-100@2x.png */; };
+		2B491F142174E60300FE7E61 /* Button Shape.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B491EF02174E60100FE7E61 /* Button Shape.png */; };
+		2B491F152174E60300FE7E61 /* Button Shape@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B491EF12174E60100FE7E61 /* Button Shape@2x.png */; };
+		2B491F192174E60300FE7E61 /* Rectangle 1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B491EF52174E60100FE7E61 /* Rectangle 1@2x.png */; };
+		2B491F1A2174E60300FE7E61 /* Button Shape 1@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B491EF62174E60100FE7E61 /* Button Shape 1@3x.png */; };
+		2B491F1C2174E60300FE7E61 /* Button Shape 1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B491EF82174E60100FE7E61 /* Button Shape 1@2x.png */; };
+		2B491F1E2174E60300FE7E61 /* Group 2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B491EFA2174E60200FE7E61 /* Group 2@2x.png */; };
+		2B491F1F2174E60300FE7E61 /* Group 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B491EFB2174E60200FE7E61 /* Group 2.png */; };
+		2B491F222174E60300FE7E61 /* Button Shape@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B491EFE2174E60200FE7E61 /* Button Shape@3x.png */; };
+		2B491F282174E60300FE7E61 /* Group 2@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B491F042174E60300FE7E61 /* Group 2@3x.png */; };
+		2B491F292174E60300FE7E61 /* Button Shape 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B491F052174E60300FE7E61 /* Button Shape 1.png */; };
+		2B491F2A2174E60300FE7E61 /* icons8-gas-pump-100@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B491F062174E60300FE7E61 /* icons8-gas-pump-100@3x.png */; };
+		2B491F2C2174E60300FE7E61 /* Rectangle 1@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B491F082174E60300FE7E61 /* Rectangle 1@3x.png */; };
+		2B491F312174E64200FE7E61 /* Rectangle 249.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B491F2E2174E64200FE7E61 /* Rectangle 249.png */; };
+		2B491F322174E64200FE7E61 /* Rectangle 249@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B491F2F2174E64200FE7E61 /* Rectangle 249@3x.png */; };
+		2B491F332174E64200FE7E61 /* Rectangle 249@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B491F302174E64200FE7E61 /* Rectangle 249@2x.png */; };
+		2B52F4ED2174EC7D00257825 /* Montserrat-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2B491F342174E6BA00FE7E61 /* Montserrat-Light.otf */; };
+		2B52F4EF2174F21F00257825 /* icons8-gas-pump-filled-500.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B52F4EE2174F21F00257825 /* icons8-gas-pump-filled-500.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +42,26 @@
 		2B491ED5216FED4100FE7E61 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2B491ED8216FED4100FE7E61 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2B491EDA216FED4100FE7E61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2B491EEB2174E60100FE7E61 /* Rectangle 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rectangle 1.png"; sourceTree = "<group>"; };
+		2B491EED2174E60100FE7E61 /* icons8-gas-pump-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-gas-pump-100.png"; sourceTree = "<group>"; };
+		2B491EEE2174E60100FE7E61 /* icons8-gas-pump-100@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-gas-pump-100@2x.png"; sourceTree = "<group>"; };
+		2B491EF02174E60100FE7E61 /* Button Shape.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button Shape.png"; sourceTree = "<group>"; };
+		2B491EF12174E60100FE7E61 /* Button Shape@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button Shape@2x.png"; sourceTree = "<group>"; };
+		2B491EF52174E60100FE7E61 /* Rectangle 1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rectangle 1@2x.png"; sourceTree = "<group>"; };
+		2B491EF62174E60100FE7E61 /* Button Shape 1@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button Shape 1@3x.png"; sourceTree = "<group>"; };
+		2B491EF82174E60100FE7E61 /* Button Shape 1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button Shape 1@2x.png"; sourceTree = "<group>"; };
+		2B491EFA2174E60200FE7E61 /* Group 2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group 2@2x.png"; sourceTree = "<group>"; };
+		2B491EFB2174E60200FE7E61 /* Group 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group 2.png"; sourceTree = "<group>"; };
+		2B491EFE2174E60200FE7E61 /* Button Shape@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button Shape@3x.png"; sourceTree = "<group>"; };
+		2B491F042174E60300FE7E61 /* Group 2@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group 2@3x.png"; sourceTree = "<group>"; };
+		2B491F052174E60300FE7E61 /* Button Shape 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button Shape 1.png"; sourceTree = "<group>"; };
+		2B491F062174E60300FE7E61 /* icons8-gas-pump-100@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-gas-pump-100@3x.png"; sourceTree = "<group>"; };
+		2B491F082174E60300FE7E61 /* Rectangle 1@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rectangle 1@3x.png"; sourceTree = "<group>"; };
+		2B491F2E2174E64200FE7E61 /* Rectangle 249.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Rectangle 249.png"; path = "project_one/Designs/Rectangle 249.png"; sourceTree = SOURCE_ROOT; };
+		2B491F2F2174E64200FE7E61 /* Rectangle 249@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Rectangle 249@3x.png"; path = "project_one/Designs/Rectangle 249@3x.png"; sourceTree = SOURCE_ROOT; };
+		2B491F302174E64200FE7E61 /* Rectangle 249@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Rectangle 249@2x.png"; path = "project_one/Designs/Rectangle 249@2x.png"; sourceTree = SOURCE_ROOT; };
+		2B491F342174E6BA00FE7E61 /* Montserrat-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Light.otf"; sourceTree = "<group>"; };
+		2B52F4EE2174F21F00257825 /* icons8-gas-pump-filled-500.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-gas-pump-filled-500.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +78,7 @@
 		2B491EC2216FED3A00FE7E61 = {
 			isa = PBXGroup;
 			children = (
+				2B491EE52174E5CB00FE7E61 /* Designs */,
 				2B491ECD216FED3A00FE7E61 /* project_one */,
 				2B491ECC216FED3A00FE7E61 /* Products */,
 			);
@@ -62,6 +103,33 @@
 				2B491EDA216FED4100FE7E61 /* Info.plist */,
 			);
 			path = project_one;
+			sourceTree = "<group>";
+		};
+		2B491EE52174E5CB00FE7E61 /* Designs */ = {
+			isa = PBXGroup;
+			children = (
+				2B52F4EE2174F21F00257825 /* icons8-gas-pump-filled-500.png */,
+				2B491F342174E6BA00FE7E61 /* Montserrat-Light.otf */,
+				2B491F2E2174E64200FE7E61 /* Rectangle 249.png */,
+				2B491F302174E64200FE7E61 /* Rectangle 249@2x.png */,
+				2B491F2F2174E64200FE7E61 /* Rectangle 249@3x.png */,
+				2B491F052174E60300FE7E61 /* Button Shape 1.png */,
+				2B491EF82174E60100FE7E61 /* Button Shape 1@2x.png */,
+				2B491EF62174E60100FE7E61 /* Button Shape 1@3x.png */,
+				2B491EF02174E60100FE7E61 /* Button Shape.png */,
+				2B491EF12174E60100FE7E61 /* Button Shape@2x.png */,
+				2B491EFE2174E60200FE7E61 /* Button Shape@3x.png */,
+				2B491EFB2174E60200FE7E61 /* Group 2.png */,
+				2B491EFA2174E60200FE7E61 /* Group 2@2x.png */,
+				2B491F042174E60300FE7E61 /* Group 2@3x.png */,
+				2B491EED2174E60100FE7E61 /* icons8-gas-pump-100.png */,
+				2B491EEE2174E60100FE7E61 /* icons8-gas-pump-100@2x.png */,
+				2B491F062174E60300FE7E61 /* icons8-gas-pump-100@3x.png */,
+				2B491EEB2174E60100FE7E61 /* Rectangle 1.png */,
+				2B491EF52174E60100FE7E61 /* Rectangle 1@2x.png */,
+				2B491F082174E60300FE7E61 /* Rectangle 1@3x.png */,
+			);
+			path = Designs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,9 +190,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2B491F312174E64200FE7E61 /* Rectangle 249.png in Resources */,
+				2B491F2A2174E60300FE7E61 /* icons8-gas-pump-100@3x.png in Resources */,
+				2B491F1A2174E60300FE7E61 /* Button Shape 1@3x.png in Resources */,
+				2B491F282174E60300FE7E61 /* Group 2@3x.png in Resources */,
+				2B491F152174E60300FE7E61 /* Button Shape@2x.png in Resources */,
 				2B491ED9216FED4100FE7E61 /* LaunchScreen.storyboard in Resources */,
+				2B491F222174E60300FE7E61 /* Button Shape@3x.png in Resources */,
+				2B491F332174E64200FE7E61 /* Rectangle 249@2x.png in Resources */,
+				2B491F292174E60300FE7E61 /* Button Shape 1.png in Resources */,
 				2B491ED6216FED4100FE7E61 /* Assets.xcassets in Resources */,
 				2B491ED4216FED3A00FE7E61 /* Main.storyboard in Resources */,
+				2B52F4ED2174EC7D00257825 /* Montserrat-Light.otf in Resources */,
+				2B491F0F2174E60300FE7E61 /* Rectangle 1.png in Resources */,
+				2B491F322174E64200FE7E61 /* Rectangle 249@3x.png in Resources */,
+				2B491F2C2174E60300FE7E61 /* Rectangle 1@3x.png in Resources */,
+				2B491F112174E60300FE7E61 /* icons8-gas-pump-100.png in Resources */,
+				2B491F1C2174E60300FE7E61 /* Button Shape 1@2x.png in Resources */,
+				2B491F122174E60300FE7E61 /* icons8-gas-pump-100@2x.png in Resources */,
+				2B491F1E2174E60300FE7E61 /* Group 2@2x.png in Resources */,
+				2B491F1F2174E60300FE7E61 /* Group 2.png in Resources */,
+				2B491F142174E60300FE7E61 /* Button Shape.png in Resources */,
+				2B52F4EF2174F21F00257825 /* icons8-gas-pump-filled-500.png in Resources */,
+				2B491F192174E60300FE7E61 /* Rectangle 1@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

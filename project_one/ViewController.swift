@@ -20,34 +20,47 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        
+        hideText()
+    }
+    
+    override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
+        self.view.endEditing(true)
     }
 
-
+    @IBAction func clearButton(_ sender: Any) {
+        if milesSinceLastFillField.text != "" {
+            hideText()
+        }
+        if litersFilledUpField.text != "" {
+            hideText()
+        }
+        if costPerLiterField.text != "" {
+            hideText()
+        }
+    }
+    
     @IBAction func submitButton(_ sender: Any) {
-        var miles = milesSinceLastFillField.text
-        var liters = litersFilledUpField.text
-        var cost = costPerLiterField.text
-        
         let litersDbl = (litersFilledUpField.text! as NSString).doubleValue
         let milesDbl = (milesSinceLastFillField.text! as NSString).doubleValue
         let costDbl = (costPerLiterField.text! as NSString).doubleValue
-
-
-        
         let gallons = (litersDbl / 4.546)
         let mpg = milesDbl / gallons
-        let finalmpg = String(mpg)
-        
+        let finalmpg = String(format:"%.1f", mpg)
         let costOfFill = ((costDbl * litersDbl) / milesDbl)
-        let finalCostOfFill = String(costOfFill)
+        let finalCostOfFill = String(format:"%.2f", costOfFill)
 
-   
-
-        costPerMileText.text = finalCostOfFill
+        costPerMileText.text = finalCostOfFill + "p"
         mpgText.text = finalmpg
         
-        
+        self.view.endEditing(true)
+    }
+    
+    func hideText(){
+        milesSinceLastFillField.text = ""
+        litersFilledUpField.text = ""
+        costPerLiterField.text = ""
+        mpgText.text = "-"
+        costPerMileText.text = "-"
     }
 }
 
