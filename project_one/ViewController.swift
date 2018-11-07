@@ -37,6 +37,12 @@ class ViewController: UIViewController {
         if costPerLiterField.text != "" {
             hideText()
         }
+        if costPerMileText.text != "-" {
+            hideText()
+        }
+        if mpgText.text != "-" {
+            hideText()
+        }
     }
     
     @IBAction func submitButton(_ sender: Any) {
