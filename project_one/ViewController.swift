@@ -55,8 +55,10 @@ class ViewController: UIViewController {
         let costOfFill = ((costDbl * litersDbl) / milesDbl)
         let finalCostOfFill = String(format:"%.2f", costOfFill)
 
+        if milesSinceLastFillField.text != "" || litersFilledUpField.text != "" || costPerLiterField.text != ""{
         costPerMileText.text = finalCostOfFill + "p"
         mpgText.text = finalmpg
+        }
         
         self.view.endEditing(true)
     }
